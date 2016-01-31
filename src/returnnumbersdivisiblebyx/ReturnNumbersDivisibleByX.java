@@ -72,7 +72,7 @@ public class ReturnNumbersDivisibleByX {
     }
     
     public static void main(String[] args) {
-        int[] numbers = {1,3,5,6,7,8,988,66,54,321,56,14,3};
+        int[] numbers = {1,3,5,6,8,10,9,13};
         System.out.println("----------------------");
         ReturnNumbers(2,numbers);
         
